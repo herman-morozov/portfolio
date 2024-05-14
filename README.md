@@ -16,6 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Technology:** SQL Server
 
+**Power BI report:** [`rhodes_collection_project.pbix`](https://github.com/herman-morozov/analytics_projects/blob/main/rhodes_collection_project.pbix)
 
 ### 2. Roman Cities and Urbanism Python Project
 
@@ -29,6 +30,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, Plotly, Folium
 
+**Tableau Map:** [`Roman Cities Project`](https://public.tableau.com/views/RomanCitiesProject/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -41,15 +43,14 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Education
 
 Petrozavodsk State University:
-Bachelor's degree, History and Digital Humanities,
+Bachelor's degree, Quantitative History and Digital Humanities,
 2015 - 2019
 
 ## Certificates
 
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/11b60bf87a84e236e85bf28bdd683948) (Sep 2023) (Coursera - Google)
+- [Python for Data Science, AI & Development](https://coursera.org/share/b1000f144f78ff8b3305a1ecd66650eb) (Jan 2024) (Coursera - IBM)
+- [Google Advanced Data Analytics](https://coursera.org/share/646d6b34b584ae3e0c000aed0efb1629) (Apr 2024) (Coursera - Google)
 
 ## Contacts
-- LinkedIn: [@herm](https://www.linkedin.com/in/)
 - Email: herman-morozov@outlook.com
