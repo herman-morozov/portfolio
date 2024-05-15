@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal:** Cleaning, Transforming, and Normalizing Museum Data for Analysis and Visualization
 
-**Description:** The project focused on cleaning, transforming, and normalizing a dataset of museum objects from British Museum collection of Rhodes artifacts. The dataset includes museumm numbers, classes of objects, production dates, places of origin, acquisition dates, and other relevant information. Cleaned data allows us to analyze the museum’s collection, identify the main groups of artifacts and their features, and get an idea of the history of the museum’s collection through the centuries.
+**Description:** The project focused on cleaning, transforming, and normalizing a dataset of museum objects from British Museum collection of Rhodes artifacts. The dataset includes museum numbers, classes of objects, production dates, places of origin, acquisition dates, and other relevant information. Cleaned data allows us to analyze the museum’s collection, identify the main groups of artifacts and their features, and get an idea of the history of the museum’s collection through the centuries.
 
 **Skills:** Joins, Temp Tables, Aggregate Functions, Converting Data Types, Case Statements, String Functions, Wildcards
 
