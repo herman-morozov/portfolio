@@ -1,7 +1,7 @@
 # Herman Morozov - Data Analyst Portfolio
 
 ## About
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
 
 
@@ -10,9 +10,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal:** Cleaning, Transforming, and Normalizing Museum Data for Analysis and Visualization
 
-**Description:** The project focused on cleaning, transforming, and normalizing a dataset of museum objects from British Museum collection of Rhodes artifacts. The dataset includes museum numbers, classes of objects, production dates, places of origin, acquisition dates, and other relevant information. Cleaned data allows us to analyze the museum’s collection, identify the main groups of artifacts and their features, and get an idea of the history of the museum’s collection through the centuries.
+**Description:** The project focused on cleaning, transforming, and normalizing a dataset of museum objects from British Museum collection of Rhodes artifacts. The dataset includes museum numbers, classes of objects, production dates, places of origin, acquisition dates, and other relevant information. The cleaned data allows us to analyze the museum’s collection, identify the main groups of artifacts and their features, and get an idea of the history of the museum’s collection through the centuries.
 
-**Skills:** Joins, Temp Tables, Aggregate Functions, Converting Data Types, Case Statements, String Functions, Wildcards
+**Skills:** Joins, Temp Tables, Aggregate Functions, Data Type Conversions, Case Statements, String Functions, Wildcards
 
 **Technology:** SQL Server
 
@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 **Goal:** Cleaning and normalizing Data, performing EDA in order to provide valuable insights that can help us better understand the characteristics of urbanism in the Roman World.
 
-**Description:** The project focused on performing exploratory data analysis, with focus on cleaning and preparing data for visualization. The dataset consists of one main table of sites, which is linked to three sub-tables for areas, monuments, and civic status via a primary key, along with an additional table for references.
+**Description:** The project focused on performing exploratory data analysis, focusing on cleaning and preparing data for visualization. The dataset consists of one main table of sites, which is linked to three sub-tables for areas, monuments, and civic status via a primary key, along with an additional table for references.
 
 **Skills:** Data Cleaning, Data Analysis, Data Visualization.
 
