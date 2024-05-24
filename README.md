@@ -6,6 +6,9 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 
 ### 1. Rhodes collection in British Museum SQL Project 
+
+**Dataset:** [`rhodes_collection.csv`](https://github.com/herman-morozov/analytics_projects/blob/main/objects.csv)
+
 **Code:** [`rhodes_artifacts_project.sql`](https://github.com/herman-morozov/analytics_projects/blob/main/rhodes_artifacts_project.sql)
 
 **Goal:** Cleaning, Transforming, and Normalizing Museum Data for Analysis and Visualization
@@ -19,6 +22,8 @@ This is a repository to showcase skills, share projects, and track my progress i
 **Power BI report:** [`rhodes_collection_project.pbix`](https://github.com/herman-morozov/analytics_projects/blob/main/rhodes_collection_project.pbix)
 
 ### 2. Roman Cities and Urbanism Python Project
+
+**Dataset:** [`roman_cities.xlsx`](https://github.com/herman-morozov/analytics_projects/blob/main/roman_cities.xlsx)
 
 **Code:** [`roman_cities_project.ipynb`](https://nbviewer.org/github/herman-morozov/analytics_projects/blob/main/roman_cities_project.ipynb)
 
